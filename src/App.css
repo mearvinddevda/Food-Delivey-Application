@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+#carousel{
+  max-height: 500px;
+}
+
+.carousel-item img{
+  color: #050505;
+}
